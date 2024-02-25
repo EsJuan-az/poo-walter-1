@@ -10,5 +10,6 @@ public class Ejercicio5 {
         x += Math.pow(y, 2);
         suma += x / y;
         System.out.println("El valor de suma es: " + suma);
+        System.out.println(x + " " +  suma + " " + y);
     }
 }
